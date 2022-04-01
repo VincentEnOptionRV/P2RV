@@ -1,0 +1,5 @@
+Idées :
+
+- Déplacer le spotlight sur sur la projection au sol de Coraulis pour suivre un tracker posé sur un cube.
+
+- Déplacer le cube dans la scène pour qu'il représente la position du cube dans la salle (voir image pour plus d'explications)
